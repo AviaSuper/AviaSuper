@@ -1,8 +1,2 @@
-- 👋 Hi, I’m @AviaSuper
-- 👀 I’m interested in Progaramming and learning!
-- 📫 How to reach me: By my twitter @AviaSuper
-
-<!---
-AviaSuper/AviaSuper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my profile!
+Nothing Much happening here, but I will keep you updated. 
